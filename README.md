@@ -1,5 +1,5 @@
 Hubbub
-======
+====== by stlcubsfan
 
 Issues get messy, Hubbub keeps you organized.
 
